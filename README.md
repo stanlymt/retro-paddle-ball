@@ -119,7 +119,7 @@ Yes—I used tools like GitHub Copilot, OpenAI, and sound effect engines. But AI
 
 ---
 
-##💡 Inspiration & Purpose
+## 💡 Inspiration & Purpose
 
 This game is a reminder that no matter how busy life gets, we can always create.
 - You can stay technical while being an effective leader.
