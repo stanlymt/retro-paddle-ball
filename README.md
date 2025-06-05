@@ -2,63 +2,45 @@
 
 A retro-style, multi-platform paddle ball game built in my spare time using **C++20** and **SDL3**, inspired by my kids and childhood memories.
 
-> _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI."_
+> _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI. Made with love, family inspiration, and spare-time engineering."_
 
 ---
 
 ## 🕹️ About the Game
 
-**Retro Paddle Ball** brings the timeless fun of paddle-and-ball mechanics into a sleek, modern engine that runs across:
-
-- 🖥️ macOS (Intel & Apple Silicon)
-- 🪟 Windows
-- 📱 Android (phones, tablets, TVs)
-- 🕹️ Supports keyboard, mouse, gamepad, and touch
+**Retro Paddle Ball** brings the timeless fun of paddle-and-ball mechanics into a sleek and modern engine.
 
 This is a personal project that started when my kids asked:
 > *"Can you build a game like the ones we play on RetroArch?"*
 
-The result: a journey through graphics, physics, audio, input handling, resolution scaling, and multi-platform deployment.
+This project began as a fun challenge: could I build a retro-style paddle ball game that my kids would love to play, while balancing a demanding professional life? As an engineering leader who spent most of my time managing teams, I missed being in the trenches and creating something end-to-end for a little while. This game gave me the perfect excuse.
+
+Encouraged by my kids, who regularly play on RetroArch, I built this cross-platform game in C++20 using SDL3. It supports keyboard, touch, gamepads, and mouse input across:
+- 🖥️ macOS (Intel & Apple Silicon)
+- 🪟 Windows
+- 📱 Android 6.0+(phones, tablets, TVs)
+- 🕹️ Supports keyboard, mouse, gamepad, and touch
+
+My goal: to demonstrate that it's possible to build something meaningful, fun, and technically robust—even with limited time—while staying curious and humble.
+
+The result: a journey through graphics, physics, audio, input handling, resolution scaling, multi-platform deployment, machine learning & AI, and computer networking.
 
 ---
 
-## ✨ Features
+## 🕹️ Features
 
-- Smooth ball physics and collision logic
-- Multiple input types (touch, mouse, gamepad, keyboard)
-- Resolution-agnostic layout (phones to 80" TVs)
-- Multi-display support (macOS & Windows)
-- Retro-inspired sound effects and visuals
-- Single-player and Two-player support
-
----
-
-## 📸 Screenshots
-
-*(Add gameplay images or animated GIFs in `/screenshots/` and link them here.)*
-
----
-
-## 📥 Downloads
-
-Download the latest version from the [Releases page](https://github.com/stanlymt/retro-paddle-ball/releases).
-
-| Platform  | File                |
-|-----------|---------------------|
-| Windows   | *(Coming soon)*     |
-| macOS     | *(Coming soon)*     |
-| Android   | *(Coming soon)*     |
-
----
-
-## 🎛️ Controls
-
-| Input Type | Control Scheme              |
-|------------|------------------------------|
-| Keyboard   | Arrow keys or `<(,)` and `>(.)` |
-| Gamepad    | D-Pad / Left Analog Stick    |
-| Touch      | Drag paddle directly         |
-| Mouse      | Move paddle horizontally     |
+- 🟠 Smooth ball physics and collision logic
+- 🎮 Multi-Input Support: Keyboard, mouse, touch, gamepad
+- 📺 Multi-Display Support: Plays well on 6" phones, 80" TVs, tablets, and desktops. Resolution-agnostic layout (phones to 80" TVs). Multi-display support.
+- 🧠 Game Modes: Single Player & Two Player (More coming soon)
+- 📦 Cross-Platform: Built and tested on:
+  - macOS (Intel + Apple Silicon)
+  - Windows
+  - Android (phones, tablets, TVs)
+  - iOS (iPhone and iPad - in progress)
+  - Web (WASM – in progress)
+🔊 Sound effects and retro-themed visuals
+📜 In-game Help, Settings, and Score display
 
 ---
 
@@ -92,27 +74,60 @@ While the current version is fully playable, I have several exciting features an
 
 ---
 
-## ❓ FAQ
+## 📸 Screenshots
+
+*(Add gameplay images or animated GIFs in `/screenshots/` and link them here.)*
+
+---
+
+## 📥 Downloads
+
+Download the latest version from the [Releases page](https://github.com/stanlymt/retro-paddle-ball/releases).
+
+| Platform  | File                |
+|-----------|---------------------|
+| Windows   | *(Coming soon)*     |
+| macOS     | *(Coming soon)*     |
+| Android   | *(Coming soon)*     |
+
+---
+
+## 🎛️ Controls
+
+| Input Type | Control Scheme              |
+|------------|------------------------------|
+| Keyboard   | Arrow keys or `<(,)` and `>(.)` |
+| Gamepad    | D-Pad / Left Analog Stick    |
+| Touch      | Drag paddle directly         |
+| Mouse      | Move paddle horizontally     |
+
+## 🙋 FAQ
+**Why paddle ball?**
+Because it's simple, nostalgic, and just enough of a challenge to build well across platforms.
+
+**Can I contribute or suggest features?**
+Absolutely. Use the Discussions tab or raise an issue. Feature suggestions from kids get bonus points!
 
 **Are you switching to gaming professionally?**  
-No—this is a passion project. I love the gaming domain but have no plans to pursue it full-time.
+No—this is a passion project. I love the gaming domain (I wrote DOS games as a teenager), but have no plans to pursue it full-time.  This is a passion project. My main focus remains engineering leadership.
 
 **Are you returning to an IC/technical role?**  
-Not exactly. I’m deeply committed to engineering leadership, but staying hands-on sharpens my empathy and leadership judgment.
+Not exactly. I’m deeply committed to engineering leadership, but staying hands-on sharpens my empathy and leadership judgment. I enjoy hands-on work, but my passion lies in leading teams, driving results, and developing people.
 
 **Did you use AI to build this?**  
 Yes—I used tools like GitHub Copilot, OpenAI, and sound effect engines. But AI is not a silver bullet. It accelerates parts of the work, but creativity, quality, and engineering decisions still require deep human thought.
 
 ---
 
-## 👨‍👧 Why I Built This
+##💡 Inspiration & Purpose
 
-This project is a reminder that:
-
+This game is a reminder that no matter how busy life gets, we can always create.
 - You can stay technical while being an effective leader.
 - You can build beautiful things even with limited time.
-- Hobbies can be deeply meaningful—especially when they involve your kids.
-
+- Learning never stops
+- You can still have fun while being technically serious
+- Hobbies can be deeply meaningful, especially when they involve your kids.
+  
 ---
 
 ## 📬 Stay Tuned
@@ -142,3 +157,6 @@ This project is licensed under the **MIT License**.
 Only precompiled binaries are shared at this time. The source code is not open.
 
 ---
+
+Built with ❤️ by Stanly Thomas
+[Connect on LinkedIn](https://www.linkedin.com/in/stanlymt/)
