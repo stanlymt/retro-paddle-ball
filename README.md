@@ -76,7 +76,7 @@ While the current version is fully playable, I have several exciting features an
 
 ## 📸 Screenshots
 
-*(Add gameplay images or animated GIFs in `/screenshots/` and link them here.)*
+(https://github.com/stanlymt/retro-paddle-ball/blob/main/screenshots/1.png)
 
 ---
 
@@ -109,7 +109,7 @@ Because it's simple, nostalgic, and just enough of a challenge to build well acr
 Absolutely. Use the Discussions tab or raise an issue. Feature suggestions from kids get bonus points!
 
 **Are you switching to gaming professionally?**  
-No—this is a passion project. I love the gaming domain (I wrote DOS games as a teenager), but have no plans to pursue it full-time.  This is a passion project. My main focus remains engineering leadership.
+No—this is a passion project. I love the gaming domain (I wrote DOS games as a teenager), but have no plans to pursue it full-time. My main focus remains engineering leadership.
 
 **Are you returning to an IC/technical role?**  
 Not exactly. I’m deeply committed to engineering leadership, but staying hands-on sharpens my empathy and leadership judgment. I enjoy hands-on work, but my passion lies in leading teams, driving results, and developing people.
