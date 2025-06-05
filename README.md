@@ -39,8 +39,8 @@ The result: a journey through graphics, physics, audio, input handling, resoluti
   - Android (phones, tablets, TVs)
   - iOS (iPhone and iPad - in progress)
   - Web (WASM – in progress)
-🔊 Sound effects and retro-themed visuals
-📜 In-game Help, Settings, and Score display
+- 🔊 Sound effects and retro-themed visuals
+- 📜 In-game Help, Settings, and Score display
 
 ---
 
