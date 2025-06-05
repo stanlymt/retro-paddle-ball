@@ -29,7 +29,7 @@ The answer became a hands-on journey across graphics, physics, audio, input hand
 - Resolution-agnostic layout (from phones to 80" TVs)
 - Multi-display support (macOS & Windows)
 - Retro-inspired sound effects and visuals
-- Future roadmap: AI paddle using real human mimicry, network multiplayer, and difficulty levels
+- Single-player and Two-player mode
 
 ---
 
@@ -61,6 +61,34 @@ Download the latest version from the [Releases page](https://github.com/stanlymt
 | Mouse      | Move paddle horizontally |
 
 ---
+🔮 Future Plans
+
+While the current version is fully playable, I have many exciting ideas I’d love to explore when time permits.
+
+🎮 Gameplay Features
+	•	AI Paddle with adjustable difficulty (Using real human play data to train behavior, not just algorithmic reactions)
+	•	Home network multiplayer (Play over Wi-Fi with friends or family)
+	•	Power-ups & game modes (Timed challenges, survival mode, etc.)
+	•	In-game settings (Custom paddles, sound controls, difficulty scaling)
+
+🧠 Technical Improvements
+	•	Improved game physics and collisions
+	•	Game save
+	•	Smart layout engine (Dynamically adapts score layout and HUD across screen shapes and DPI)
+
+🖥️ Future Platform Support
+	•	iOS (via SDL3 + Metal + touch support)
+	•	Web (via WebAssembly) (Built successfully, but needs work to make it functional)
+
+🧪 Engineering Deep Dives (in blog posts)
+	•	Physics consistency across variable frame rates
+	•	Input abstraction across devices (touch, gamepad, keyboard)
+	•	Designing for 6” phones and 80” TVs with a single layout engine
+	•	Lessons in perseverance, ambiguity, and shipping solo
+
+💬 How soon I can build these depends on the time I can carve out between personal and professional responsibilities, and the complexity of some technical challenges along the way.
+
+⸻
 
 ## ❓ FAQ
 
