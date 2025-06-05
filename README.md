@@ -84,6 +84,7 @@ Here’s a preview of Retro Paddle Ball in action:
 ![Game Over](screenshots/11.png)
 ![Two Player](screenshots/10.png)
 ![Game Help](screenshots/9.png)
+![Game Teaser](screenshots/Retro-Paddle-Ball-demo.webm)
 
 ---
 
