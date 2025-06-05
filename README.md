@@ -10,32 +10,32 @@ A retro-style, multi-platform paddle ball game built in my spare time using **C+
 
 **Retro Paddle Ball** brings the timeless fun of paddle-and-ball mechanics into a sleek, modern engine that runs across:
 
-- 🖥️ macOS (Intel & M1)
+- 🖥️ macOS (Intel & Apple Silicon)
 - 🪟 Windows
 - 📱 Android (phones, tablets, TVs)
-- 🕹️ Support for keyboard, mouse, gamepad, and touch
+- 🕹️ Supports keyboard, mouse, gamepad, and touch
 
-This is a personal project that started with my kids asking:
+This is a personal project that started when my kids asked:
 > *"Can you build a game like the ones we play on RetroArch?"*
 
-The answer became a hands-on journey across graphics, physics, audio, input handling, screen resolution management, and cross-platform builds.
+The result: a journey through graphics, physics, audio, input handling, resolution scaling, and multi-platform deployment.
 
 ---
 
 ## ✨ Features
 
 - Smooth ball physics and collision logic
-- Multiple input support (touch, mouse, gamepad, keyboard)
-- Resolution-agnostic layout (from phones to 80" TVs)
+- Multiple input types (touch, mouse, gamepad, keyboard)
+- Resolution-agnostic layout (phones to 80" TVs)
 - Multi-display support (macOS & Windows)
 - Retro-inspired sound effects and visuals
-- Single-player and Two-player mode
+- Single-player and Two-player support
 
 ---
 
 ## 📸 Screenshots
 
-*(Add images in `/screenshots/` and link them here)*
+*(Add gameplay images or animated GIFs in `/screenshots/` and link them here.)*
 
 ---
 
@@ -43,89 +43,102 @@ The answer became a hands-on journey across graphics, physics, audio, input hand
 
 Download the latest version from the [Releases page](https://github.com/stanlymt/retro-paddle-ball/releases).
 
-| Platform  | File                  |
-|-----------|-----------------------|
-| Windows   | `` |
-| macOS     | `` |
-| Android   | `` |
+| Platform  | File                |
+|-----------|---------------------|
+| Windows   | *(Coming soon)*     |
+| macOS     | *(Coming soon)*     |
+| Android   | *(Coming soon)*     |
 
 ---
 
 ## 🎛️ Controls
 
-| Input Type | Control Scheme        |
-|------------|------------------------|
-| Keyboard   | Arrow keys / <(,) >(.)      |
-| Gamepad    | D-Pad / Left Analog    |
-| Touch      | Drag paddle directly   |
-| Mouse      | Move paddle horizontally |
+| Input Type | Control Scheme              |
+|------------|------------------------------|
+| Keyboard   | Arrow keys or `<(,)` and `>(.)` |
+| Gamepad    | D-Pad / Left Analog Stick    |
+| Touch      | Drag paddle directly         |
+| Mouse      | Move paddle horizontally     |
 
 ---
-🔮 Future Plans
 
-While the current version is fully playable, I have many exciting ideas I’d love to explore when time permits.
+## 🔮 Future Plans
 
-🎮 Gameplay Features
-	•	AI Paddle with adjustable difficulty (Using real human play data to train behavior, not just algorithmic reactions)
-	•	Home network multiplayer (Play over Wi-Fi with friends or family)
-	•	Power-ups & game modes (Timed challenges, survival mode, etc.)
-	•	In-game settings (Custom paddles, sound controls, difficulty scaling)
+While the current version is fully playable, I have several exciting features and improvements I'd love to explore as time permits.
 
-🧠 Technical Improvements
-	•	Improved game physics and collisions
-	•	Game save
-	•	Smart layout engine (Dynamically adapts score layout and HUD across screen shapes and DPI)
+### 🎮 Gameplay Features
+- AI Paddle with adjustable difficulty (trained on real human play data)
+- Home network multiplayer over Wi-Fi
+- Power-ups & game modes (e.g. survival, timed challenges)
+- In-game settings (custom paddles, difficulty, sound, etc.)
+- Dynamic objects like bricks and collectibles for extra points
 
-🖥️ Future Platform Support
-	•	iOS (via SDL3 + Metal + touch support)
-	•	Web (via WebAssembly) (Built successfully, but needs work to make it functional)
+### 🧠 Technical Enhancements
+- Enhanced physics and edge collision precision
+- Game state saving and resuming
+- Smart layout engine for adaptive UI across devices
 
-🧪 Engineering Deep Dives (in blog posts)
-	•	Physics consistency across variable frame rates
-	•	Input abstraction across devices (touch, gamepad, keyboard)
-	•	Designing for 6” phones and 80” TVs with a single layout engine
-	•	Lessons in perseverance, ambiguity, and shipping solo
+### 🖥️ Platform Expansion
+- iOS (via SDL3 + Metal backend)
+- Web (via WebAssembly – builds successfully but needs polish)
 
-💬 How soon I can build these depends on the time I can carve out between personal and professional responsibilities, and the complexity of some technical challenges along the way.
+### 🧪 Engineering Deep Dives (via blog posts)
+- Frame rate–independent physics
+- Input abstraction across devices
+- Designing for both 6” phones and 80” TVs with a unified HUD engine
+- Lessons in perseverance, ambiguity, and solo-shipping
 
-⸻
+> 💬 Timelines depend on spare time and complexity—but I'm excited to keep growing this.
+
+---
 
 ## ❓ FAQ
 
 **Are you switching to gaming professionally?**  
-No—this is a passion project, not a career pivot.
+No—this is a passion project. I love the gaming domain but have no plans to pursue it full-time.
 
-**Are you moving back to an IC role?**  
-No—I love leading engineering teams. But building this reminded me how staying technical fuels leadership empathy and credibility.
+**Are you returning to an IC/technical role?**  
+Not exactly. I’m deeply committed to engineering leadership, but staying hands-on sharpens my empathy and leadership judgment.
 
 **Did you use AI to build this?**  
-Yes, I used modern AI tools like GitHub Copilot, OpenAI, and sound generation engines. But AI isn’t magic—it accelerates, not replaces. Every creative leap still needed human thinking, judgment, and care.
+Yes—I used tools like GitHub Copilot, OpenAI, and sound effect engines. But AI is not a silver bullet. It accelerates parts of the work, but creativity, quality, and engineering decisions still require deep human thought.
 
 ---
 
 ## 👨‍👧 Why I Built This
 
-I built this not just for fun—but to:
+This project is a reminder that:
 
-- Show that technical depth and leadership can coexist
-- Inspire other engineers and parents to build things in their spare time
-- Reconnect with the hands-on creativity that drew me to programming at 12
-
-If you play it—even better, if your kids play it—I’d love your thoughts!
+- You can stay technical while being an effective leader.
+- You can build beautiful things even with limited time.
+- Hobbies can be deeply meaningful—especially when they involve your kids.
 
 ---
 
 ## 📬 Stay Tuned
 
-I'll be publishing a few deep-dive articles soon on:
-- The engineering behind multi-resolution support
-- Game physics in SDL3
-- Training AI paddles using real player data
-- What this project taught me about engineering leadership
+I'll be sharing technical articles and lessons learned including:
+
+- Multi-resolution game layout design
+- SDL3 cross-platform game physics
+- Building AI that mimics real players
+- Personal growth through creative side projects
+
+---
+
+## 📚 Open Source Libraries Used
+
+- [SDL3](https://github.com/libsdl-org/SDL)
+- [SDL3_image](https://github.com/libsdl-org/SDL_image)
+- [SDL3_ttf](https://github.com/libsdl-org/SDL_ttf)
+- [SDL3_mixer](https://github.com/libsdl-org/SDL_mixer)
+- [Google Oboe](https://github.com/google/oboe) – high-performance audio on Android
 
 ---
 
 ## 📝 License
 
-This project is shared under the **MIT License**. Binaries are free to use, but source code is not shared at this time.
+This project is licensed under the **MIT License**.  
+Only precompiled binaries are shared at this time. The source code is not open.
 
+---
