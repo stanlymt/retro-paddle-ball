@@ -84,7 +84,6 @@ Here’s a preview of Retro Paddle Ball in action:
 ![Game Over](screenshots/11.png)
 ![Two Player](screenshots/10.png)
 ![Game Help](screenshots/9.png)
-![Game Teaser](screenshots/Retro-Paddle-Ball-demo.webm)
 
 ---
 
@@ -122,8 +121,23 @@ No—this is a passion project. I love the gaming domain (I wrote DOS games as a
 **Are you returning to an IC/technical role?**  
 Not exactly. I’m deeply committed to engineering leadership, but staying hands-on sharpens my empathy and leadership judgment. I enjoy hands-on work, but my passion lies in leading teams, driving results, and developing people.
 
+**Are you making the source code open?**  
+Not right now. I’ve poured countless hours into building this project, often late at night or on weekends, balancing it alongside family and professional life.
+
+While I fully believe in the spirit of open source, I’m currently choosing to keep the code closed for a few key reasons:
+- 🧼 The codebase needs cleanup and refactoring before it represents the kind of quality I want to stand behind publicly.
+- 🔒 I want to avoid misuse or misrepresentation of the code, especially while I’m actively iterating on features.
+- 🧩 Many gameplay elements are still in flux, and publishing the source now could lead to misunderstandings about the design or quality.
+
+That said, I’m happy to:
+- Answer technical questions
+- Share learnings through future blog posts
+- Possibly open up certain parts of the code later if there’s enough interest and context
+
+For now, I’m prioritizing clarity, completeness, and integrity of the experience—both for players and fellow developers.
+
 **Did you use AI to build this?**  
-Yes—I used tools like GitHub Copilot, OpenAI, and sound effect engines. But AI is not a silver bullet. It accelerates parts of the work, but creativity, quality, and engineering decisions still require deep human thought.
+Yes, I used tools like GitHub Copilot, OpenAI, and sound effect engines. But AI is not a silver bullet. It accelerates parts of the work, but creativity, quality, and engineering decisions still require deep human thought.
 
 ---
 
