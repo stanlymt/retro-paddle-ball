@@ -91,12 +91,6 @@ Here’s a preview of Retro Paddle Ball in action:
 
 Download the latest version from the [Releases page](https://github.com/stanlymt/retro-paddle-ball/releases).
 
-| Platform  | File                |
-|-----------|---------------------|
-| Windows   | *(Coming soon)*     |
-| macOS     | *(Coming soon)*     |
-| Android   | *(Coming soon)*     |
-
 ---
 
 ## 🎛️ Controls
