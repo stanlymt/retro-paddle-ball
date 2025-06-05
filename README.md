@@ -75,8 +75,11 @@ While the current version is fully playable, I have several exciting features an
 ---
 
 ## 📸 Screenshots
+Here’s a preview of Retro Paddle Ball in action:
 
-(https://github.com/stanlymt/retro-paddle-ball/blob/main/screenshots/1.png)
+![Intro Screen](screenshots/1.png)
+
+
 
 ---
 
