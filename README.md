@@ -78,8 +78,13 @@ While the current version is fully playable, I have several exciting features an
 Here’s a preview of Retro Paddle Ball in action:
 
 ![Intro Screen](screenshots/1.png)
-
-
+![Mode Selection](screenshots/3.png)
+![Intro Screen](screenshots/1.png)
+![Aiming Ball](screenshots/6.png)
+![Scoring](screenshots/8.png)
+![Game Over](screenshots/11.png)
+![Two Player](screenshots/10.png)
+![Game Help](screenshots/9.png)
 
 ---
 
