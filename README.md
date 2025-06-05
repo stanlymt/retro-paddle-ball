@@ -102,10 +102,10 @@ Download the latest version from the [Releases page](https://github.com/stanlymt
 | Mouse      | Move paddle horizontally     |
 
 ## 🙋 FAQ
-**Why paddle ball?**
+**Why paddle ball?**  
 Because it's simple, nostalgic, and just enough of a challenge to build well across platforms.
 
-**Can I contribute or suggest features?**
+**Can I contribute or suggest features?**  
 Absolutely. Use the Discussions tab or raise an issue. Feature suggestions from kids get bonus points!
 
 **Are you switching to gaming professionally?**  
