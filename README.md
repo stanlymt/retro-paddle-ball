@@ -1,8 +1,10 @@
-# 🎮 Retro Paddle Ball
+# 🎮 Retro Paddle Ball 
 
 A retro-style, multi-platform paddle ball game built in my spare time using **C++20** and **SDL3**, inspired by my kids and childhood memories.
 
 > _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI. Made with love, family inspiration, and spare-time engineering."_
+
+Discover in-depth insights, stories, and updates about this project on the [Retro Paddle Ball website](http://retropaddleball.app/) 
 
 ---
 
