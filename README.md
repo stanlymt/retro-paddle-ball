@@ -21,6 +21,7 @@ Encouraged by my kids, who regularly play on RetroArch, I built this cross-platf
 - 🖥️ macOS (Intel & Apple Silicon)
 - 🪟 Windows
 - 📱 Android 6.0+(phones, tablets, TVs)
+- 🌐 Browser - [Play Online](https://play.retropaddleball.app/)
 - 🕹️ Supports keyboard, mouse, gamepad, and touch
 
 My goal: to demonstrate that it's possible to build something meaningful, fun, and technically robust—even with limited time—while staying curious and humble.
@@ -40,7 +41,7 @@ The result: a journey through graphics, physics, audio, input handling, resoluti
   - Windows
   - Android (phones, tablets, TVs)
   - iOS (iPhone and iPad - in progress)
-  - Web (WASM – in progress)
+  - Web (WASM) - [Play Online](https://play.retropaddleball.app/)
 - 🔊 Sound effects and retro-themed visuals
 - 📜 In-game Help, Settings, and Score display
 
@@ -72,7 +73,7 @@ While the current version is fully playable, I have several exciting features an
 - Designing for both 6” phones and 80” TVs with a unified HUD engine
 - Lessons in perseverance, ambiguity, and solo-shipping
 
-> 💬 Timelines depend on spare time and complexity—but I'm excited to keep growing this.
+> 💬 Timelines depend on spare time and complexity, but I'm excited to keep growing this.
 
 ---
 
