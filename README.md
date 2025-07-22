@@ -1,27 +1,6 @@
 # 🎮 Retro Paddle Ball 
 
-A retro-style, multi-platform paddle ball game built in my spare time using **C++20** and **SDL3**, inspired by my kids and childhood memorie### 🧠 Technical Enhancements
-
-- **Advanced Statistics**: Detailed performance analytics and improvement tracking
-- **Enhanced Physics**: Even more precise edge collision detection
-- **Smart Layout Engine**: Further adaptive UI improvements
-
-### 🖥️ Platform Expansion
-- **Xbox Platform**: Console gaming experience
-
-### 🧪 Engineering Deep Dives (via blog posts)
-- **Power-up System Architecture**: How strategic gameplay transforms classic mechanics
-- **Cross-platform Audio**: Dynamic music and spatial sound implementation
-- **Frame Rate Independence**: Physics and animation consistency across devices
-- **Input Abstraction**: Unified control systems across diverse platforms
-- **Responsive Design**: Lessons in 6" to 80" display adaptation
-- **Solo Development**: Perseverance, shipping, and work-life balance insightsng revolutionary **Power-Ups** and strategic gameplay depth!
-
-> _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI. Made with love, family inspiration, and spare-time engineering."_
-
-Discover in-depth insights, stories, and updates about this project on the [Retro Paddle Ball website](http://retropaddleball.app/) 
-
----
+A retro-style, multi-platform paddle ball game built in my spare time using C++20 and SDL3, inspired by my kids and childhood memories.
 
 ## 🕹️ About the Game
 
@@ -198,19 +177,6 @@ While the current version features a complete power-up system and three game mod
 
 ---
 
-## 📸 Screenshots
-Here's a preview of Retro Paddle Ball in action:
-
-![Intro Screen](screenshots/1.png)
-![Mode Selection](screenshots/3.png)
-![Aiming Ball](screenshots/6.png)
-![Scoring](screenshots/8.png)
-![Game Over](screenshots/11.png)
-![Two Player](screenshots/10.png)
-![Game Help](screenshots/9.png)
-
----
-
 ## 📥 Downloads
 
 Download the latest version from the [Downloads page](https://retropaddleball.app/download/)
@@ -251,48 +217,6 @@ Revolutionary turn-based gameplay where players alternate wall shots. Miss your 
 Interactive tutorials, visual guides, and expert strategies to master every aspect of the enhanced gameplay.
 
 *This update represents months of development and transforms Retro Paddle Ball into the most complete paddle ball experience ever created.*
-
----
-
-## 🙋 FAQ
-
-**What makes this different from other paddle ball games?**  
-The revolutionary power-up system and strategic depth! With 10 unique power-ups, three distinct game modes (including turn-based Squash Duel), and dynamic audio, this transforms the classic arcade experience into a modern strategic masterpiece.
-
-**Why paddle ball?**  
-Because it's simple, nostalgic, and just enough of a challenge to build well across platforms. Plus, my kids asked me to build something like the games they play on RetroArch!
-
-**What's new in the Power UP Update?**  
-Everything! 10 strategic power-ups, a new Squash Duel mode, dynamic music, 15+ sound effects, comprehensive help system, and enhanced controls. It's the biggest evolution in the game's history.
-
-**Can I contribute or suggest features?**  
-Absolutely. Use the Discussions tab or raise an issue. Feature suggestions from kids get bonus points!
-
-**Are you switching to gaming professionally?**  
-No—this is a passion project. I love the gaming domain (I wrote DOS games as a teenager), but have no plans to pursue it full-time. My main focus remains engineering leadership.
-
-**Are you returning to an IC/technical role?**  
-Not exactly. I'm deeply committed to engineering leadership, but staying hands-on sharpens my empathy and leadership judgment. I enjoy hands-on work, but my passion lies in leading teams, driving results, and developing people.
-
-**Are you making the source code open?**  
-Not right now. I've poured countless hours into building this project, often late at night or on weekends, balancing it alongside family and professional life.
-
-While I fully believe in the spirit of open source, I'm currently choosing to keep the code closed for a few key reasons:
-- 🧼 The codebase needs cleanup and refactoring before it represents the kind of quality I want to stand behind publicly.
-- 🔒 I want to avoid misuse or misrepresentation of the code, especially while I'm actively iterating on features.
-- 🧩 Many gameplay elements are still in flux, and publishing the source now could lead to misunderstandings about the design or quality.
-
-That said, I'm happy to:
-- Answer technical questions
-- Share learnings through future blog posts
-- Possibly open up certain parts of the code later if there's enough interest and context
-
-For now, I'm prioritizing clarity, completeness, and integrity of the experience—both for players and fellow developers.
-
-**Did you use AI to build this?**  
-Yes, extensively! I used GitHub Copilot for code acceleration, OpenAI for design decisions and problem-solving, AI-powered sound effect generation, and various AI tools for art and visual effects. The Power UP Update particularly benefited from AI assistance in balancing game mechanics, creating particle effects, and optimizing audio systems.
-
-However, AI is not a silver bullet—it accelerates development and provides creative inspiration, but the core game design, strategic decisions, quality standards, and engineering architecture still require deep human thought, experience, and iteration.
 
 ---
 
