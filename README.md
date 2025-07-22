@@ -152,22 +152,9 @@ While the current version features a complete power-up system and three game mod
 
 ---
 
-## 📸 Screenshots
-Here’s a preview of Retro Paddle Ball in action:
-
-![Intro Screen](screenshots/1.png)
-![Mode Selection](screenshots/3.png)
-![Aiming Ball](screenshots/6.png)
-![Scoring](screenshots/8.png)
-![Game Over](screenshots/11.png)
-![Two Player](screenshots/10.png)
-![Game Help](screenshots/9.png)
-
----
-
 ## 📥 Downloads
 
-Download the latest version from the [Releases page](https://github.com/stanlymt/retro-paddle-ball/releases).
+Download the latest version from the [Downloads page](https://retropaddleball.app/download/)
 
 ---
 
