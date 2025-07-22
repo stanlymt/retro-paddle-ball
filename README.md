@@ -1,7 +1,33 @@
 # 🎮 Retro Paddle Ball 
 
-A retro-style, multi-platform paddle ball game built in my spare time### 🧠 Technical Enhancements
-- **Cloud Save Support**: Progress synchronization across devices
+A retro-style, multi-platform paddle ball game built in my spare time using **C++20** and **SDL3**, inspired by my kids and childhood memories.
+
+> _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI. Made with love, family inspiration, and spare-time engineering."_
+
+Discover in-depth insights, stories, and updates about this project on the [Retro Paddle Ball website](http://retropaddleball.app/) 
+
+---
+
+## 🕹️ About the Game
+
+**Retro Paddle Ball** brings the timeless fun of paddle-and-ball mechanics into a sleek and modern engine.
+
+This is a personal project that started when my kids asked:
+> *"Can you build a game like the ones we play on RetroArch?"*
+
+This project began as a fun challenge: could I build a retro-style paddle ball game that my kids would love to play, while balancing a demanding professional life? As an engineering leader who spent most of my time managing teams, I missed being in the trenches and creating something end-to-end for a little while. This game gave me the perfect excuse.
+
+Encouraged by my kids, who regularly play on RetroArch, I built this cross-platform game in C++20 using SDL3. It supports keyboard, touch, gamepads, and mouse input across:
+- 🖥️ macOS (Intel & Apple Silicon)
+- 🪟 Windows
+- 📱 Android 6.0+(phones, tablets, TVs)
+- 🌐 Browser - [Play Online](https://play.retropaddleball.app/)
+- 🕹️ Supports keyboard, mouse, gamepad, and touch
+
+My goal: to demonstrate that it's possible to build something meaningful, fun, and technically robust—even with limited time—while staying curious and humble.
+
+The result: a journey through graphics, physics, audio, input handling, resolution scaling, multi-platform deployment, machine learning & AI, and computer networking.
+
 ## 🙋 FAQ
 
 **What makes this different from other paddle ball games?**  
@@ -43,29 +69,6 @@ Not exactly. I'm deeply committed to engineering leadership, but staying hands-o
 > _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI. Made with love, family inspiration, and spare-time engineering."_
 
 Discover in-depth insights, stories, and updates about this project on the [Retro Paddle Ball website](http://retropaddleball.app/) 
-
----
-
-## 🕹️ About the Game
-
-**Retro Paddle Ball** brings the timeless fun of paddle-and-ball mechanics into a sleek and modern engine.
-
-This is a personal project that started when my kids asked:
-> *"Can you build a game like the ones we play on RetroArch?"*
-
-This project began as a fun challenge: could I build a retro-style paddle ball game that my kids would love to play, while balancing a demanding professional life? As an engineering leader who spent most of my time managing teams, I missed being in the trenches and creating something end-to-end for a little while. This game gave me the perfect excuse.
-
-Encouraged by my kids, who regularly play on RetroArch, I built this cross-platform game in C++20 using SDL3. It supports keyboard, touch, gamepads, and mouse input across:
-- 🖥️ macOS (Intel & Apple Silicon)
-- 🪟 Windows
-- 📱 Android 6.0+(phones, tablets, TVs)
-- 🌐 Browser - [Play Online](https://play.retropaddleball.app/)
-- 🕹️ Supports keyboard, mouse, gamepad, and touch
-
-My goal: to demonstrate that it's possible to build something meaningful, fun, and technically robust—even with limited time—while staying curious and humble.
-
-The result: a journey through graphics, physics, audio, input handling, resolution scaling, multi-platform deployment, machine learning & AI, and computer networking.
-
 ---
 
 ## 🕹️ Features
@@ -131,16 +134,13 @@ While the current version features a complete power-up system and three game mod
 - **Custom Game Modes**: Survival challenges and timed competitions
 
 ### 🧠 Technical Enhancements
-- **Cloud Save Support**: Progress synchronization across devices
 - **Replay System**: Record and share epic matches
 - **Advanced Statistics**: Detailed performance analytics and improvement tracking
 - **Enhanced Physics**: Even more precise edge collision detection
-- **Smart Layout Engine**: Further adaptive UI improvements
-- Smart layout engine for adaptive UI across devices
+- **Smart Layout Engine**: Further adaptive UI improvements. Smart layout engine for adaptive UI across devices
 
 ### 🖥️ Platform Expansion
-- iOS (via SDL3 + Metal backend)
-- Web (via WebAssembly – builds successfully but needs polish)
+- XBox
 
 ### 🧪 Engineering Deep Dives (via blog posts)
 - Frame rate–independent physics
