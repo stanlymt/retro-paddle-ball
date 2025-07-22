@@ -51,11 +51,6 @@ Not exactly. I'm deeply committed to engineering leadership, but staying hands-o
 - **Enhanced Physics**: Even more precise edge collision detection
 - **Smart Layout Engine**: Further adaptive UI improvements
 
-### 🖥️ Platform Expansion
-- **iOS Release**: Complete iPhone and iPad optimization (via SDL3 + Metal)
-- **Web Release**: Polished WebAssembly version with full feature parity
-- **Console Platforms**: Potential Nintendo Switch and Steam Deck support
-
 ### 🧪 Engineering Deep Dives (via blog posts)
 - **Power-up System Architecture**: How strategic gameplay transforms classic mechanics
 - **Cross-platform Audio**: Dynamic music and spatial sound implementation
@@ -66,9 +61,6 @@ Not exactly. I'm deeply committed to engineering leadership, but staying hands-o
 
 > 💬 Timelines depend on spare time and complexity—but I'm excited to keep growing this.d **SDL3**, inspired by my kids and childhood memories. Now featuring revolutionary **Power-Ups** and strategic gameplay depth!
 
-> _"This is more than just a game—it's a story about passion, learning, and leadership in the age of AI. Made with love, family inspiration, and spare-time engineering."_
-
-Discover in-depth insights, stories, and updates about this project on the [Retro Paddle Ball website](http://retropaddleball.app/) 
 ---
 
 ## 🕹️ Features
